@@ -2,7 +2,6 @@ import os
 import sys
 import time
 import random
-import getkey
 
 def writeLine(filename, stringToWrite):
     f = open(filename, "a")
